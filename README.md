@@ -1,3 +1,3 @@
 # Curso Python
 
-Curso Python intermediário, com elementos como: lista, tupla, dicionário e função 
+Curso Python intermediário, com elementos como: lista, tupla, dicionário e função.
